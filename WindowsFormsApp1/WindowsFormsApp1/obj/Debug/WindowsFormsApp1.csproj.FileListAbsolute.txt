@@ -1,0 +1,15 @@
+C:\Users\Gothman\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Gothman\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Gothman\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Gothman\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Gothman\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MetricChanger.exe.config
+C:\Users\Gothman\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MetricChanger.exe
+C:\Users\Gothman\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MetricChanger.pdb
+C:\Users\Gothman\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MetricChanger.Properties.Resources.resources
+C:\Users\Gothman\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MetricChanger.exe
+C:\Users\Gothman\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MetricChanger.pdb
+C:\Users\Gothman\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MetricChanger.TrustInfo.xml
+C:\Users\Gothman\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MetricChanger.exe.manifest
+C:\Users\Gothman\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MetricChanger.exe.manifest
+C:\Users\Gothman\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MetricChanger.application
+C:\Users\Gothman\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MetricChanger.application
